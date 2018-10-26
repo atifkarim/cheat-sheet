@@ -1,0 +1,5 @@
+opencv install in python in virtual env ---
+ 
+1/ https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
+
+if problem then try with error and try this 2/https://github.com/ContinuumIO/anaconda-issues/issues/9601
